@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Omega.BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Omega.Entities": "1.0.0",
+          "Omega.Model": "1.0.0",
+          "Omega.Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Omega.BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Omega.BusinessLogic.dll": {}
+        }
+      },
+      "Omega.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Omega.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Omega.Common.dll": {}
+        }
+      },
+      "Omega.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Omega.Common": "1.0.0",
+          "Omega.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Omega.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Omega.Entities.dll": {}
+        }
+      },
+      "Omega.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Omega.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Omega.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Omega.Model.dll": {}
+        }
+      },
+      "Omega.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Omega.Common": "1.0.0",
+          "Omega.Entities": "1.0.0",
+          "Omega.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Omega.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Omega.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Omega.BusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../Omega.BusinessLogic/Omega.BusinessLogic.csproj",
+      "msbuildProject": "../Omega.BusinessLogic/Omega.BusinessLogic.csproj"
+    },
+    "Omega.Common/1.0.0": {
+      "type": "project",
+      "path": "../Omega.Common/Omega.Common.csproj",
+      "msbuildProject": "../Omega.Common/Omega.Common.csproj"
+    },
+    "Omega.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Omega.Entities/Omega.Entities.csproj",
+      "msbuildProject": "../Omega.Entities/Omega.Entities.csproj"
+    },
+    "Omega.Model/1.0.0": {
+      "type": "project",
+      "path": "../Omega.Model/Omega.Model.csproj",
+      "msbuildProject": "../Omega.Model/Omega.Model.csproj"
+    },
+    "Omega.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Omega.Repositories/Omega.Repositories.csproj",
+      "msbuildProject": "../Omega.Repositories/Omega.Repositories.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Omega.BusinessLogic >= 1.0.0",
+      "Omega.Common >= 1.0.0",
+      "Omega.Entities >= 1.0.0",
+      "Omega.Model >= 1.0.0",
+      "Omega.Repositories >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aramirez\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\PrimerWebApi\\PrimerWebApi.csproj",
+      "projectName": "PrimerWebApi",
+      "projectPath": "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\PrimerWebApi\\PrimerWebApi.csproj",
+      "packagesPath": "C:\\Users\\aramirez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\PrimerWebApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\aramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\Omega.BusinessLogic\\Omega.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\Omega.BusinessLogic\\Omega.BusinessLogic.csproj"
+            },
+            "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\Omega.Common\\Omega.Common.csproj": {
+              "projectPath": "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\Omega.Common\\Omega.Common.csproj"
+            },
+            "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\Omega.Entities\\Omega.Entities.csproj": {
+              "projectPath": "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\Omega.Entities\\Omega.Entities.csproj"
+            },
+            "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\Omega.Model\\Omega.Model.csproj": {
+              "projectPath": "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\Omega.Model\\Omega.Model.csproj"
+            },
+            "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\Omega.Repositories\\Omega.Repositories.csproj": {
+              "projectPath": "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\Omega.Repositories\\Omega.Repositories.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Omega.Entities/1.0.0": {
+        "dependencies": {
+          "Omega.Common": "1.0.0",
+          "Omega.Model": "1.0.0"
+        },
+        "runtime": {
+          "Omega.Entities.dll": {}
+        }
+      },
+      "Omega.Common/1.0.0": {
+        "runtime": {
+          "Omega.Common.dll": {}
+        }
+      },
+      "Omega.Model/1.0.0": {
+        "dependencies": {
+          "Omega.Common": "1.0.0"
+        },
+        "runtime": {
+          "Omega.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Omega.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Omega.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Omega.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

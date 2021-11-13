@@ -1,0 +1,12 @@
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\bin\Debug\netcoreapp3.1\Omega.Model.deps.json
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\bin\Debug\netcoreapp3.1\Omega.Model.dll
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\bin\Debug\netcoreapp3.1\Omega.Model.pdb
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\bin\Debug\netcoreapp3.1\Omega.Common.dll
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\bin\Debug\netcoreapp3.1\Omega.Common.pdb
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\Omega.Model.csproj.AssemblyReference.cache
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\Omega.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\Omega.Model.AssemblyInfoInputs.cache
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\Omega.Model.AssemblyInfo.cs
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\Omega.Model.csproj.CoreCompileInputs.cache
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\Omega.Model.dll
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\Omega.Model.pdb
