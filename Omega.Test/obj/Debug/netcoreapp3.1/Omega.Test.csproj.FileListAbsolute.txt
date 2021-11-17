@@ -1,0 +1,10 @@
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Test\bin\Debug\netcoreapp3.1\Omega.Test.deps.json
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Test\bin\Debug\netcoreapp3.1\Omega.Test.dll
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Test\bin\Debug\netcoreapp3.1\Omega.Test.pdb
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Test\obj\Debug\netcoreapp3.1\Omega.Test.csproj.AssemblyReference.cache
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Test\obj\Debug\netcoreapp3.1\Omega.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Test\obj\Debug\netcoreapp3.1\Omega.Test.AssemblyInfoInputs.cache
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Test\obj\Debug\netcoreapp3.1\Omega.Test.AssemblyInfo.cs
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Test\obj\Debug\netcoreapp3.1\Omega.Test.csproj.CoreCompileInputs.cache
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Test\obj\Debug\netcoreapp3.1\Omega.Test.dll
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Test\obj\Debug\netcoreapp3.1\Omega.Test.pdb

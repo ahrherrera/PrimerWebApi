@@ -14,3 +14,4 @@ C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Repositories\obj\Debug\netcore
 C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Repositories\obj\Debug\netcoreapp3.1\Omega.Repositories.csproj.CoreCompileInputs.cache
 C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Repositories\obj\Debug\netcoreapp3.1\Omega.Repositories.dll
 C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Repositories\obj\Debug\netcoreapp3.1\Omega.Repositories.pdb
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Repositories\obj\Debug\netcoreapp3.1\Omega.Repositories.csproj.CopyComplete

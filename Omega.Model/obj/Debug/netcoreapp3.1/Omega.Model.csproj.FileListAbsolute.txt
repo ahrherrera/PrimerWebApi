@@ -10,3 +10,6 @@ C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\
 C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\Omega.Model.csproj.CoreCompileInputs.cache
 C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\Omega.Model.dll
 C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\Omega.Model.pdb
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\bin\Debug\netcoreapp3.1\Omega.Model.runtimeconfig.json
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\bin\Debug\netcoreapp3.1\Omega.Model.runtimeconfig.dev.json
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.Model\obj\Debug\netcoreapp3.1\Omega.Model.genruntimeconfig.cache

@@ -4,6 +4,6 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>PrimerWebApi</ActiveDebugProfile>
+    <ActiveDebugProfile>PrimerWebApi.Demo</ActiveDebugProfile>
   </PropertyGroup>
 </Project>

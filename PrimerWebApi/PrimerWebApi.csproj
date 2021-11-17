@@ -9,11 +9,28 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AspNetCore.RouteAnalyzer" Version="0.5.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Omega.BusinessLogic\Omega.BusinessLogic.csproj" />
     <ProjectReference Include="..\Omega.Common\Omega.Common.csproj" />
     <ProjectReference Include="..\Omega.Entities\Omega.Entities.csproj" />
     <ProjectReference Include="..\Omega.Model\Omega.Model.csproj" />
     <ProjectReference Include="..\Omega.Repositories\Omega.Repositories.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="appsettings - Copia.Demo.Development.json">
+      <DependentUpon>appsettings.Demo.Development.json</DependentUpon>
+    </Content>
+    <Content Update="appsettings - Copia.Demo.json">
+      <DependentUpon>appsettings.Demo.json</DependentUpon>
+    </Content>
   </ItemGroup>
 
 

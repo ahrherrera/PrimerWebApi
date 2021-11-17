@@ -1,0 +1,10 @@
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.AutomatedTasks\bin\Debug\netcoreapp3.1\Omega.AutomatedTasks.deps.json
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.AutomatedTasks\bin\Debug\netcoreapp3.1\Omega.AutomatedTasks.dll
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.AutomatedTasks\bin\Debug\netcoreapp3.1\Omega.AutomatedTasks.pdb
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.AutomatedTasks\obj\Debug\netcoreapp3.1\Omega.AutomatedTasks.csproj.AssemblyReference.cache
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.AutomatedTasks\obj\Debug\netcoreapp3.1\Omega.AutomatedTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.AutomatedTasks\obj\Debug\netcoreapp3.1\Omega.AutomatedTasks.AssemblyInfoInputs.cache
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.AutomatedTasks\obj\Debug\netcoreapp3.1\Omega.AutomatedTasks.AssemblyInfo.cs
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.AutomatedTasks\obj\Debug\netcoreapp3.1\Omega.AutomatedTasks.csproj.CoreCompileInputs.cache
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.AutomatedTasks\obj\Debug\netcoreapp3.1\Omega.AutomatedTasks.dll
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.AutomatedTasks\obj\Debug\netcoreapp3.1\Omega.AutomatedTasks.pdb

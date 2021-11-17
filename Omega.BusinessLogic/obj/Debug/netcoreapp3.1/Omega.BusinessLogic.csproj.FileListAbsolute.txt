@@ -16,3 +16,4 @@ C:\Users\aramirez\source\repos\PrimerWebApi\Omega.BusinessLogic\obj\Debug\netcor
 C:\Users\aramirez\source\repos\PrimerWebApi\Omega.BusinessLogic\obj\Debug\netcoreapp3.1\Omega.BusinessLogic.csproj.CoreCompileInputs.cache
 C:\Users\aramirez\source\repos\PrimerWebApi\Omega.BusinessLogic\obj\Debug\netcoreapp3.1\Omega.BusinessLogic.dll
 C:\Users\aramirez\source\repos\PrimerWebApi\Omega.BusinessLogic\obj\Debug\netcoreapp3.1\Omega.BusinessLogic.pdb
+C:\Users\aramirez\source\repos\PrimerWebApi\Omega.BusinessLogic\obj\Debug\netcoreapp3.1\Omega.BusinessLogic.csproj.CopyComplete
