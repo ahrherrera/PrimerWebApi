@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AQoQ83M4fO/FNjk+QdgsGhqIJbol15g7eMFGh+v9qhYFrl67Hm4HtGVK9fWy3HMxASAhqKREXqyxDRKLEO8vJg==",
+  "dgSpecHash": "RUwp7ISYKbDzMs66XgrNcPOeTNQBucEG6hs5V+iCuED+Dop70tlzZZ6FXVKpv7F0/7r1Gw/602I696PYK92jEA==",
   "success": true,
   "projectFilePath": "C:\\Users\\aramirez\\source\\repos\\PrimerWebApi\\Omega.Common\\Omega.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aramirez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
