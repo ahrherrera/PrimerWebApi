@@ -8,6 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Omega.Model;
+using Omega.Entities;
 using PrimerWebApi.Helpers;
 using System;
 using System.Collections.Generic;
@@ -43,6 +44,7 @@ namespace PrimerWebApi
 
             // Add Dependency Injection
             services.AddContext(Configuration);
+            services.AddMainOmegaContext(Configuration);
 
             var settingsSection = Configuration.GetSection("AppSettings");
 
